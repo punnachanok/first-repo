@@ -1,2 +1,3 @@
 #include "Monster.h"
-int MAINFUNC () {}
+int MAINFUNCTION () {}
+

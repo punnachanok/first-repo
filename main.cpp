@@ -1,2 +1,5 @@
 #include "Monster.h"
-int main () {}
+int main () 
+{
+	//the main function
+}
